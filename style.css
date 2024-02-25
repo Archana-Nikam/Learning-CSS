@@ -1,6 +1,10 @@
-
+/* css for 1st question */
 #Box{
     background-color: blueviolet;
-    color:white;
+    /* color:white; */
 }
 
+/* css for second question */
+.heading{
+    color:red;
+}
