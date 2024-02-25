@@ -5,6 +5,17 @@
 }
 
 /* css for second question */
-.heading{
+/* way 1 */
+.heading{ 
     color:red;
+}
+/* way 2 */
+/*h1,h2,h3{
+    color:black;
+}*/
+
+/* css for third question */
+button{
+    background-color:green;
+    color:black;
 }
