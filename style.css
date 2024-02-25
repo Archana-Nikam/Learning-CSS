@@ -2,10 +2,13 @@ h1{
     color:brown;
 }
 h2{
-    color:aqua;
+    color:brown;
 }
 button{
     color:blueviolet;
     flex-direction: column-reverse;
     border-radius: 7cqb;
+}
+body{
+    background-color: cornflowerblue;
 }
