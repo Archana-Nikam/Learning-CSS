@@ -1,18 +1,6 @@
-*{
-    color:darkorchid;
+
+#Box{
+    background-color: blueviolet;
+    color:white;
 }
-h1{
-    color:black;
-}
-button{
-    color:brown;
-}
-#headingOne{
-    color:black;
-}
-#headingTwo{
-    color:rgb(212,25,0);
-}
-.myclass{
-    color:green;
-}
+
