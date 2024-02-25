@@ -4,3 +4,8 @@ h1{
 h2{
     color:aqua;
 }
+button{
+    color:blueviolet;
+    flex-direction: column-reverse;
+    border-radius: 7cqb;
+}
