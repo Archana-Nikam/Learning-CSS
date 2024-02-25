@@ -2,13 +2,13 @@ h1{
     color:brown;
 }
 h2{
-    color:brown;
+    color:black;
 }
 button{
     color:blueviolet;
     flex-direction: column-reverse;
     border-radius: 7cqb;
-    background-color: chartreuse;
+    background-color: rgb(0, 255, 102);
 }
 body{
     background-color: cornflowerblue;
