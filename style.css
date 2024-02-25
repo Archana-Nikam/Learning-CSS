@@ -13,6 +13,6 @@ button{
 #headingTwo{
     color:rgb(212,25,0);
 }
-#headingThree{
+.myclass{
     color:green;
 }
