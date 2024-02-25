@@ -1,16 +1,18 @@
-h1{
-    color:brown;
+*{
+    color:darkorchid;
 }
-h2{
-    color:blue;
+h1{
+    color:black;
 }
 button{
-    color:blueviolet;
-    flex-direction: column-reverse;
-    border-radius: 7cqb;
-    background-color : rgb(255,255,0);
+    color:brown;
 }
-body{
-    background-color:#2596be;
+#headingOne{
+    color:black;
 }
-
+#headingTwo{
+    color:rgb(212,25,0);
+}
+#headingThree{
+    color:green;
+}
