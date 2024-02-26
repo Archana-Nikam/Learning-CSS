@@ -30,6 +30,26 @@ p{
 h1{
     text-align: center;
     text-decoration:underline;
-    
+    }
 
+a{
+    text-decoration: none;
+}
+
+/* text-orientation (font-weight)=> bold/bolder/lighter */
+#h1{
+    font-weight: normal;
+    }
+
+#h2{
+    font-weight: solid;
+
+}
+
+#h3{
+    font-weight: bolder;
+}
+#h4{
+    font-weight: lighter;
+    
 }
