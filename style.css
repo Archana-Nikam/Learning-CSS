@@ -64,6 +64,7 @@ a{
 /* learning about font size in pixels */
 #one1{
     font-size: small;
+    line-height: 20px;
 }
 #one2{
     font-size: 50px;
