@@ -21,7 +21,15 @@ button{
     background-color:green;
     color:black;
 }
- 
-.body{
-    color:hotpink;
+
+/*Css for learning text aligns*/
+p{
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    text-decoration:underline;
+    
+
 }
