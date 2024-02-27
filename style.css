@@ -77,12 +77,32 @@ a{
     font-size: 30px;
 } */
 
-#heading{
-    text-decoration: double;
+body{
+    background-color: black;
+}
+
+
+.text{
+    padding-top: 350px;
+    padding-left: 600px;
+    padding-right: 500px;
+    padding-bottom: 800px;
+    color: white;
+    font-size: 55px;
+    text-shadow: 
+    #FFFFFF 0 0 12px,
+    #A91079 0 0 25px,
+    #A91079 0 0 35px,
+    #A91079 0 0 45px;
+    @keyframes {
+        {background-color: red;}
+      
+      }
+    /* text-decoration: double;
     text-shadow: 30cm;
     text-justify: auto;
     font-size: larger;
     font-weight: bolder;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: aqua;
+    background-color: aqua; */
 }
