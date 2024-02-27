@@ -88,6 +88,8 @@ a{
     padding-right: 500px;
     padding-bottom: 800px;
     color: white;
+    text-transform:capitalied;
+    text-align:center;
     font-size: 55px;
     text-shadow: 
     #FFFFFF 0 0 12px,
@@ -97,8 +99,10 @@ a{
 
   }*/
 
-/* #paragraph{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+/* 
+we have to set all the content in times new roman so universal selector*
+*{
+    font-family: 'Times New Roman';
   } */
 
 #outer{
