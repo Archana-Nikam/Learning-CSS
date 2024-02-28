@@ -105,10 +105,27 @@ we have to set all the content in times new roman so universal selector*
     font-family: 'Times New Roman';
   } */
 
+/*  for practice set2
+
 #outer{
     font-size: 25px ;
 }
 
 #inner{
     font-size: 10px;
+} */
+
+div{
+    height: 100px;
+    width: 200;
+    background-color: brown;
+    border-width: 20px;
+    border-style:double;
+    border-color: black;
+}
+
+h1{
+    width: 20px;
+    height: 30px;
+    background-color: aqua;
 }
