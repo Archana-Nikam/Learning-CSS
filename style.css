@@ -116,16 +116,16 @@ we have to set all the content in times new roman so universal selector*
 } */
 
 div{
-    height: 100px;
+    height: 400px;
     width: 200;
-    background-color: brown;
+    background-color:aquamarine;
     border-width: 20px;
     border-style:double;
     border-color: black;
 }
 
 h1{
-    width: 20px;
-    height: 30px;
+  
+   
     background-color: aqua;
 }
