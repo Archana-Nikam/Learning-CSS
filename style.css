@@ -177,14 +177,29 @@ example trafic light
    padding-left: 20px;
 } * */
 
+div{
+    display: inline;
+}
+
 #box1{
     background-color: coral;
+    height: 1000px;
+    width: 1000px;
+    border-radius: 50%;
+
 }
 
 #box2{
-    background-color: coral;
+    background-color: green;
+    height: 1000px;
+    width: 1000px;
+    border-radius: 50%;
 }
 
 #box3{
-    background-color: coral;
+    background-color: blue;
+    height: 1000px;
+    width: 1000px;
+    border-radius:30%;
 }
+
