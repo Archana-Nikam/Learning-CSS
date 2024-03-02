@@ -185,7 +185,27 @@ div{
     background-color: coral;
     height: 100px;
     width: 100px;
-    background-color: rgba(255, 0, 0, 0.5);
+    background-color: rgba(0, 0, 255, 0.25);
+    margin:25px;
+    padding: 25px;
+    display:inline-block
+
+}
+#box2{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0, 0, 255, 0.50);
+    margin:25px;
+    padding: 25px;
+    display:inline-block
+
+}
+#box3{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0, 0, 255, 0.75);
     margin:25px;
     padding: 25px;
     display:inline-block
