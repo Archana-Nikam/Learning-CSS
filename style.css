@@ -181,7 +181,7 @@ div{
     display: inline;
 }
 
-#box1{
+.contentBox{
     background-color: coral;
     height: 100px;
     width: 100px;
@@ -191,7 +191,7 @@ div{
     display:inline-block
 
 }
-#box2{
+#contentBox2{
     background-color: brown;
     height: 100px;
     width: 100px;
@@ -201,7 +201,7 @@ div{
     display:inline-block
 
 }
-#box3{
+#contentBox3{
     background-color: aqua;
     height: 100px;
     width: 100px;
