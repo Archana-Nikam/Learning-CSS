@@ -176,6 +176,31 @@ example trafic light
     border-radius: 50%;
    padding-left: 20px;
 } * */
+*
+{
+  padding:0%;
+  margin:0%;
+  color: whitesmoke;
+}
+
+#navbar{
+    height: 200px;
+    width: 200;
+    background-color:#0f1111;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: larger;
+}
+a{
+    margin-right:250px;
+    text-decoration: none;
+}
 
 div{
     display: inline;
@@ -185,32 +210,9 @@ div{
     background-color: coral;
     height: 100px;
     width: 100px;
-    background-color: rgba(0, 0, 255, 0.25);
+    background-color: rgba(0, 34, 255, 0.75);
     margin:25px;
     padding: 25px;
     display:inline-block
 
 }
-#contentBox2{
-    background-color: brown;
-    height: 100px;
-    width: 100px;
-    background-color: rgba(0, 0, 255, 0.50);
-    margin:25px;
-    padding: 25px;
-    display:inline-block
-
-}
-#contentBox3{
-    background-color: aqua;
-    height: 100px;
-    width: 100px;
-    background-color: rgba(0, 0, 255, 0.75);
-    margin:25px;
-    padding: 25px;
-    display:inline-block
-
-}
-
-
-
