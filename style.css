@@ -244,11 +244,13 @@ div{
     /* Style for unordered list */
     ul {
       margin-left: 20px; /* Adjust as needed */
+    
     }
 
     /* Style for ordered list */
     ol {
       margin-left: 20px; /* Adjust as needed */
+      
     }
 
     /* Style for list items */
