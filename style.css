@@ -216,3 +216,47 @@ div{
     display:inline-block
 
 } */ 
+
+/* adding css to the list */
+
+  /* Apply styles for printing */
+  
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    /* Remove default list styles */
+    ul, ol {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      background-color: aqua;
+      font-style: inherit;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+#list1{
+    background-color: blueviolet;
+}
+#list2{
+    background-color: blueviolet;
+}
+
+    /* Style for unordered list */
+    ul {
+      margin-left: 20px; /* Adjust as needed */
+    }
+
+    /* Style for ordered list */
+    ol {
+      margin-left: 20px; /* Adjust as needed */
+    }
+
+    /* Style for list items */
+    li {
+      margin-bottom: 5px; /* Adjust as needed */
+    }
+  
+
+
+  
+  
