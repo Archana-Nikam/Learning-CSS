@@ -1,7 +1,14 @@
+*{
+    color-scheme:initial;
+    background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
     margin-top: 20px;
+
   }
 
   th, td {
