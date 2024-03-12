@@ -25,3 +25,13 @@ const value1 = Symbol('hello');
 const value2 = Symbol('hello');
  
 console.log(value1 === value2); // false
+
+// 5)It indicates a value that does not exist or is invalid.(NULL data type)
+var a = null;
+
+// 6)Object-It is used to store collection of data.
+// Object
+const student = {
+    firstName: 'Arya',
+    Rollnumber:201 
+    };
