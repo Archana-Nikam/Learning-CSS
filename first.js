@@ -16,3 +16,12 @@ var b = 5;
 var c = 4;
 (a == b) // returns false
 (a == c) //returns true
+
+// 4)This datatype is a new primitive data type introduced in JavaScript ES6. 
+// Symbols are immutable (they cannot be modified) and one-of-a-kind.
+// two symbols with the same description
+ 
+const value1 = Symbol('hello');
+const value2 = Symbol('hello');
+ 
+console.log(value1 === value2); // false
