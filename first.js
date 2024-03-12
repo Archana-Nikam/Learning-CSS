@@ -8,3 +8,11 @@ var str2 = 'David Matt'; //using single quotes
 
 var x = 25; //without decimal
 var y = 10.6; //with decimal
+
+// 3)This datatype is used to represent the boolean values as either true or false.
+
+var a = 4;
+var b = 5;
+var c = 4;
+(a == b) // returns false
+(a == c) //returns true
