@@ -35,3 +35,6 @@ const student = {
     firstName: 'Arya',
     Rollnumber:201 
     };
+
+    // variables in javascript
+    myVariable = "Bob";
