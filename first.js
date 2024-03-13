@@ -37,4 +37,8 @@ const student = {
     };
 
     // variables in javascript
+    // 1st method
     myVariable = "Bob";
+
+    // 2nd method
+    let myVariable = "Bob";
