@@ -42,3 +42,5 @@ const student = {
 
     // 2nd method
     let myVariable = "Bob";
+    // we can assign numbers to given variable name
+    let myVariable = 10;
