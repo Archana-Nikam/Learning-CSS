@@ -41,6 +41,6 @@ const student = {
     myVariable = "Bob";
 
     // 2nd method
-    let myVariable = "Bob";
+    let Variable = "Bob";
     // we can assign numbers to given variable name
     let myVariable = 10;
