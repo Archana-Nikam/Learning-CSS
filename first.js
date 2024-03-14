@@ -50,3 +50,15 @@ let x, y, z;    // Statement 1
 x = 5;          // Statement 2
 y = 6;          // Statement 3
 z = x + y;      // Statement 4
+
+// function in javascript syntax
+// function name(parameter1, parameter2, parameter3) {
+// code to be executed
+//   }
+
+// Q.1)write javascript code to write product of two numbers
+let x=myfunction(a,b)
+
+function myfunction(a,b){
+    return a*b
+}
