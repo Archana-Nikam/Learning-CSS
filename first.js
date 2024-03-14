@@ -62,3 +62,9 @@ let x=myfunction(a,b)
 function myfunction(a,b){
     return a*b
 }
+
+// execute function named as my function
+ function mefunction(){
+    alert("Hello World!!")
+ }
+ mefunction();
