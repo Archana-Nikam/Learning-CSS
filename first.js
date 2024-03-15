@@ -72,3 +72,6 @@ function myfunction(a,b){
 //  learning strings
 let carName1 = "Volvo XC60";  // Double quotes
 let carName2 = 'Volvo XC60';  // Single quotes
+// to find length of text or string
+let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+let length = text.length;
