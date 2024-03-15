@@ -75,3 +75,5 @@ let carName2 = 'Volvo XC60';  // Single quotes
 // to find length of text or string
 let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let length = text.length;
+// string with escape character
+let text1= "We are the so-called from the north";
