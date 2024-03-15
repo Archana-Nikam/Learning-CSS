@@ -81,3 +81,13 @@ let text1= "We are the so-called from the north";
 // A safe way to break up a statement is after an operator
 document.getElementById("demo").innerHTML =
 "Hello Dolly!";
+
+// Templates were introduced with ES6 (JavaScript 2016).
+// Templates are strings enclosed in backticks (`This is a template string`).
+
+// Templates allow multiline strings
+let text2 =
+`The quick
+brown fox
+jumps over
+the lazy dog`;
