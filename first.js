@@ -77,3 +77,7 @@ let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let length = text.length;
 // string with escape character
 let text1= "We are the so-called from the north";
+
+// A safe way to break up a statement is after an operator
+document.getElementById("demo").innerHTML =
+"Hello Dolly!";
