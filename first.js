@@ -68,3 +68,7 @@ function myfunction(a,b){
     alert("Hello World!!")
  }
  mefunction();
+
+//  learning strings
+let carName1 = "Volvo XC60";  // Double quotes
+let carName2 = 'Volvo XC60';  // Single quotes
