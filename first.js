@@ -94,7 +94,3 @@ the lazy dog`;
 
 // operatoors in javascript
 // 1)The Assignment Operator (=) assigns a value to a variable:
-let r = 5;
-let t = 2;
-let q = x + y;
-document.getElementById("demo").innerHTML = q;
