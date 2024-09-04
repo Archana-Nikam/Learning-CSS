@@ -46,9 +46,9 @@ const student = {
     let myVariable = 10;
 
     // learning about statements in javascript
-let x, y, z;    // Statement 1
-x = 5;          // Statement 2
-y = 6;          // Statement 3
+let r, i, z;    // Statement 1
+r = 5;          // Statement 2
+i = 6;          // Statement 3
 z = x + y;      // Statement 4
 
 // function in javascript syntax
